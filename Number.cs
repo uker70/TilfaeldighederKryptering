@@ -11,6 +11,7 @@ namespace TilfældighederKryptering
     {
         private static Random rnd = new Random();
 
+        //uses the RNGCryptoServiceProvider to get random values to byte array
         public static byte[] GetRngNumbers(int length)
         {
             byte[] random = new byte[length];
@@ -23,6 +24,7 @@ namespace TilfældighederKryptering
             return random;
         }
 
+        //uses Random to get random values to byte array
         public static byte[] GetRandomNumbers(int length)
         {
             byte[] random = new byte[length];
