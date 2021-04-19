@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TilfældighederKryptering", "TilfældighederKryptering.csproj", "{9003E863-DD6F-441C-A879-B66C1CBCBB30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9003E863-DD6F-441C-A879-B66C1CBCBB30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9003E863-DD6F-441C-A879-B66C1CBCBB30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9003E863-DD6F-441C-A879-B66C1CBCBB30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9003E863-DD6F-441C-A879-B66C1CBCBB30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {630EB7A5-5EDC-4052-875E-3C22825255B6}
+	EndGlobalSection
+EndGlobal
